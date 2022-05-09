@@ -1,0 +1,13 @@
+22f147534497a51e244a0afbe965c7a7 *DESCRIPTION
+594da75f6610f48bd56c3058aa87af7f *NAMESPACE
+55716ab098c5a1ccab35351648c31007 *R/Utilitarios.R
+817e9fca12c99c3dd036ee33f18f493d *R/estimate_zinarp.R
+d94e822231e2fa44c8e1147d0aff95e9 *R/explore_zinarp.R
+9257c8cff5f4ec941c5975ef2989a659 *R/globals.R
+3f6778c356668ad0dc7232413413f241 *R/simul_zinarp.R
+77162014f843637d1d02b480a71240d7 *R/slesions.R
+6255edce9b4672e7e33ce93edf176aea *data/slesions.rda
+0564f5c020f00d614a794816734543d6 *man/estimate_zinarp.Rd
+523581594ce598ab84ab4b551cf275b1 *man/explore_zinarp.Rd
+ea293751a968b5e4fd47139422cdbbb7 *man/simul_zinarp.Rd
+234fc28645fb8d256eeee7daae655969 *man/slesions.Rd
